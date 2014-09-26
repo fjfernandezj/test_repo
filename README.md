@@ -1,4 +1,4 @@
 test_repo
 =========
 
-demo
+this is my demo.
